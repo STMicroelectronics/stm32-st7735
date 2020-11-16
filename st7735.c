@@ -2,8 +2,6 @@
   ******************************************************************************
   * @file    st7735.c
   * @author  MCD Application Team
-  * @version V1.1.1
-  * @date    24-November-2014
   * @brief   This file includes the driver for ST7735 LCD mounted on the Adafruit
   *          1.8" TFT LCD shield (reference ID 802).
   ******************************************************************************

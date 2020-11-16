@@ -2,8 +2,6 @@
   ******************************************************************************
   * @file    st7735.h
   * @author  MCD Application Team
-  * @version V1.1.1
-  * @date    24-November-2014
   * @brief   This file contains all the functions prototypes for the st7735.c
   *          driver.
   ******************************************************************************
